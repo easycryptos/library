@@ -1,0 +1,100 @@
+CRITICAL - 2023-05-01 21:54:01 --> Invalid file: "{0}"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('partials/_header.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('partials/_header', [], true)
+ 3 APPPATH\Controllers\HomeController.php(60): view('partials/_header', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\HomeController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 6 SYSTEMPATH\CodeIgniter.php(367): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(77): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-01 21:54:01 --> Invalid file: "{0}"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('partials/_header.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('partials/_header', [], true)
+ 3 APPPATH\Controllers\HomeController.php(764): view('partials/_header', [...])
+ 4 APPPATH\Controllers\HomeController.php(310): App\Controllers\HomeController->error404()
+ 5 APPPATH\Controllers\HomeController.php(270): App\Controllers\HomeController->post('favicon.ico')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\HomeController->any('favicon.ico')
+ 7 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(367): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(77): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-01 21:54:50 --> Invalid file: "{0}"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('partials/_header.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('partials/_header', [], true)
+ 3 APPPATH\Controllers\HomeController.php(60): view('partials/_header', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\HomeController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 6 SYSTEMPATH\CodeIgniter.php(367): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(77): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-01 21:54:50 --> Invalid file: "{0}"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('partials/_header.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('partials/_header', [], true)
+ 3 APPPATH\Controllers\HomeController.php(764): view('partials/_header', [...])
+ 4 APPPATH\Controllers\HomeController.php(310): App\Controllers\HomeController->error404()
+ 5 APPPATH\Controllers\HomeController.php(270): App\Controllers\HomeController->post('favicon.ico')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\HomeController->any('favicon.ico')
+ 7 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(367): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(77): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-01 21:54:52 --> Invalid file: "{0}"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('partials/_header.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('partials/_header', [], true)
+ 3 APPPATH\Controllers\HomeController.php(60): view('partials/_header', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\HomeController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 6 SYSTEMPATH\CodeIgniter.php(367): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(77): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-01 21:54:52 --> Invalid file: "{0}"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('partials/_header.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('partials/_header', [], true)
+ 3 APPPATH\Controllers\HomeController.php(764): view('partials/_header', [...])
+ 4 APPPATH\Controllers\HomeController.php(310): App\Controllers\HomeController->error404()
+ 5 APPPATH\Controllers\HomeController.php(270): App\Controllers\HomeController->post('favicon.ico')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\HomeController->any('favicon.ico')
+ 7 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(367): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(77): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-01 21:55:22 --> Invalid file: "{0}"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('partials/_header.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('partials/_header', [], true)
+ 3 APPPATH\Controllers\HomeController.php(60): view('partials/_header', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\HomeController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 6 SYSTEMPATH\CodeIgniter.php(367): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(77): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-01 21:55:23 --> Invalid file: "{0}"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('partials/_header.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('partials/_header', [], true)
+ 3 APPPATH\Controllers\HomeController.php(764): view('partials/_header', [...])
+ 4 APPPATH\Controllers\HomeController.php(310): App\Controllers\HomeController->error404()
+ 5 APPPATH\Controllers\HomeController.php(270): App\Controllers\HomeController->post('favicon.ico')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\HomeController->any('favicon.ico')
+ 7 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(367): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(77): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-01 21:59:06 --> Invalid file: "{0}"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('partials/_header.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('partials/_header', [], true)
+ 3 APPPATH\Controllers\HomeController.php(60): view('partials/_header', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\HomeController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 6 SYSTEMPATH\CodeIgniter.php(367): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(77): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-01 21:59:06 --> Invalid file: "{0}"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('partials/_header.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('partials/_header', [], true)
+ 3 APPPATH\Controllers\HomeController.php(764): view('partials/_header', [...])
+ 4 APPPATH\Controllers\HomeController.php(310): App\Controllers\HomeController->error404()
+ 5 APPPATH\Controllers\HomeController.php(270): App\Controllers\HomeController->post('favicon.ico')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\HomeController->any('favicon.ico')
+ 7 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+ 8 SYSTEMPATH\CodeIgniter.php(367): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(77): CodeIgniter\CodeIgniter->run()
